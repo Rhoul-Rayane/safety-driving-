@@ -26,6 +26,14 @@ Safety Driving is a two-pronged system that combines:
 
 These features offer a proactive and reactive approach to road safety, delivering measurable and meaningful results.
 
+# **Demo videos**
+
+https://github.com/user-attachments/assets/0da8b475-b089-4043-9dd7-8760b206f6cf
+
+
+https://github.com/user-attachments/assets/92f69312-4fbb-4795-89c9-72e52a160ec5
+
+
 https://github.com/user-attachments/assets/39b60241-6e24-4738-9d18-27b0e601e509
 
 
