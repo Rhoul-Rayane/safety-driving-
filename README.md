@@ -17,6 +17,8 @@ Safety Driving directly addresses two major road safety challenges: delayed emer
 - **Economic Impact:** Lower accident rates will reduce medical expenses, insurance claims, and vehicle damage costs, benefiting both individuals and industries.
 - **Cultural Shift:** The project raises awareness about driver fatigue, fostering safer driving habits and promoting a culture of responsibility on the road.
 
+![sales stat](Production_and_sales_of_new_vehicles_in_Morocco.png)
+
 ### **Proposed Solution:**
 Safety Driving is a two-pronged system that combines:
 1. **AI-Based Fatigue Detection:** The system uses a camera to monitor driver alertness in real time by analyzing blink patterns and eye movements. When fatigue is detected, it triggers alarms to prompt the driver to take action.
@@ -24,7 +26,9 @@ Safety Driving is a two-pronged system that combines:
 
 These features offer a proactive and reactive approach to road safety, delivering measurable and meaningful results.
 
-![sales stat](Production_and_sales_of_new_vehicles_in_Morocco.png)
+https://github.com/user-attachments/assets/39b60241-6e24-4738-9d18-27b0e601e509
+
+
 
 ## **Project Outcomes and Deliverables:**
 
