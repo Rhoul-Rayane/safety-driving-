@@ -5,6 +5,8 @@
 
 Every year, road accidents claim millions of lives globally and leave countless families devastated. In Morocco alone, over 4,000 people die annually, with more than 100,000 others sustaining serious injuries, according to the National Road Safety Agency (NARSA). Behind these statistics are human lives—parents, children, and friends—whose loss profoundly impacts their families and communities. Tragically, many of these deaths are preventable if only help could arrive in time. The challenge lies not only in the occurrence of accidents but also in the critical delay in emergency response. Often, precious minutes are wasted locating victims and alerting emergency services. This delay, though seemingly small, can make the difference between life and death, especially for those suffering from severe internal injuries. Adding to the tragedy is the silent threat of driver fatigue, which is responsible for a significant proportion of accidents, particularly on long routes. Exhausted drivers fail to recognize the onset of drowsiness, leading to fatal crashes. Despite advancements in automotive safety, there remains a gap in proactive and immediate solutions addressing both accident detection and fatigue prevention.
 
+![accident stat](accident_statistics.png)
+
 ## **Impact and Proposed Solution:**
 
 ### **Impact:**
@@ -20,6 +22,8 @@ Safety Driving is a two-pronged system that combines:
 2. **Accident Detection and Real-Time Alerts:** Integrated shock sensors detect accidents and immediately send GPS-enabled location data to emergency responders, ensuring a rapid intervention.
 
 These features offer a proactive and reactive approach to road safety, delivering measurable and meaningful results.
+
+![sales stat](Production_and_sales_of_new_vehicles_in_Morocco.png)
 
 ## **Project Outcomes and Deliverables:**
 
