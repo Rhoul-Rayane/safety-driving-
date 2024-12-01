@@ -6,7 +6,9 @@
 Every year, road accidents claim millions of lives globally and leave countless families devastated. In Morocco alone, over 4,000 people die annually, with more than 100,000 others sustaining serious injuries, according to the National Road Safety Agency (NARSA). Behind these statistics are human lives—parents, children, and friends—whose loss profoundly impacts their families and communities. Tragically, many of these deaths are preventable if only help could arrive in time. The challenge lies not only in the occurrence of accidents but also in the critical delay in emergency response. Often, precious minutes are wasted locating victims and alerting emergency services. This delay, though seemingly small, can make the difference between life and death, especially for those suffering from severe internal injuries. Adding to the tragedy is the silent threat of driver fatigue, which is responsible for a significant proportion of accidents, particularly on long routes. Exhausted drivers fail to recognize the onset of drowsiness, leading to fatal crashes. Despite advancements in automotive safety, there remains a gap in proactive and immediate solutions addressing both accident detection and fatigue prevention.
 
 ![accident stat](accident_statistics.png)
-[narsa accident stat](https://www.youtube.com/)
+
+
+[narsa accident stat](https://www.narsa.ma/sites/default/files/2023-10/Recueil%20des%20accidents%20-%202022_231020_140050.pdf)
 
 ## **Impact and Proposed Solution:**
 
@@ -28,13 +30,16 @@ These features offer a proactive and reactive approach to road safety, deliverin
 
 # **Demo videos**
 
-https://github.com/user-attachments/assets/0da8b475-b089-4043-9dd7-8760b206f6cf
+
+https://github.com/user-attachments/assets/3901320f-8788-44ab-90ff-9f463695b93d
 
 
-https://github.com/user-attachments/assets/92f69312-4fbb-4795-89c9-72e52a160ec5
+
+https://github.com/user-attachments/assets/73879ba7-d3e3-49b5-9341-a154524a99c2
 
 
-https://github.com/user-attachments/assets/39b60241-6e24-4738-9d18-27b0e601e509
+
+https://github.com/user-attachments/assets/248e1426-b256-4671-98f9-0d0d6e5367f7
 
 
 
